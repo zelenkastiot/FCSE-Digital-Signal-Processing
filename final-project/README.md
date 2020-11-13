@@ -1,8 +1,8 @@
-# Анализа на Forex пазар; Tick-Data парови
+# Кратка анализа на Forex пазар; Tick-Data парови; Интерактивни визуелизации
 **Летен семестар, 2020** <br> <br>
 
 Содржина: 
-### 1. Разни визуелизации 
+### 1. Разновидни визуелизации 
  - Tick Data парови (EUR/USD, USD/JPY, ..)
  - Histograms за сите парови  
  - Box plots за 'bid' вредности 
@@ -18,10 +18,11 @@
  ### 3. Risk management 
  - Истражи најдобро време да се напушти трејд 
  - Пресместувај прецизност при испитување на дали остануваме или напуштаме акција
-### 4. Detrending hour time series tick data
+### 4. Detrending на податоци
+ - Зошто се користи?
  - Linear Detrend 
  - Difference Detrend 
- - Results; Pros and Cons 
+ - Резултати; Pros и Cons 
 ### 5. Curve fitting on hour tick data EUR/USD
  - 1st Order Fourier Expansion
  - Sine Fitting 
