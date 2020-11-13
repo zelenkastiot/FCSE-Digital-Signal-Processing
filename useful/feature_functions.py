@@ -10,6 +10,10 @@ List of useful functions:
 
  - 1: Heiken Ashi Candlestick data
  - 2: Detrending data for Fourier or Sine expansion
+ - 3: 1st order Fourier series expansion
+ - 4: Sine series expansion
+ - 5: Fourier series coefficient Calculator function
+ - 6: Sine series coefficient Calculator function
 
 """
 import pandas as pd
