@@ -4,4 +4,4 @@ plotly==4.11.0
 matplotlib==3.3.2
 mplfinance==0.12.7a0
 sklearn
-
+seaborn
