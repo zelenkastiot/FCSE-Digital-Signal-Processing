@@ -4,8 +4,3 @@
 
 Research for Digital Signal Processing course [Faculty of Computer Science and Engineering - Skopje, 2020]
 
-<hr>
-<p align="center">
-<img src="https://raw.githubusercontent.com/zelenelez/images/master/finki.jpg" width=70%;></img> <br>
-Spring, 2020
-</p>
