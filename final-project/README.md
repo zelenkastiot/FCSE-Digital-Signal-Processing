@@ -34,3 +34,9 @@
 - [Dukascopy.com](https://www.dukascopy.com/swiss/english/home/)
 - [HistData.com](https://www.histdata.com/download-free-forex-historical-data/?/ascii/tick-data-quotes/EURUSD)
 
+<hr>
+<p align="center">
+<img src="https://raw.githubusercontent.com/zelenelez/images/master/finki.jpg" width=70%;></img> <br>
+Spring, 2020
+</p>
+
